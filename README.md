@@ -5,6 +5,7 @@ Usage: Please enter the number beside the option in the console to select an opt
 # Main menu. 
 
 *************** Message Queue Service ***************
+
 Select an option:
 1. Registrations
 2. Publish Message
@@ -19,6 +20,7 @@ option3: Some utility methods to check all publisher ids, subscribers in a queue
 # Registration Menu
 
 *************** Registration Menu ***************
+
 Select an option:
 1. Register new queue
 2. Register new publisher
@@ -32,6 +34,7 @@ When asked for id, you can enter unique id for publisher, message queue or subsc
 # Utility Menu
 
 *************** UTILS ***************
+
 Select an option:
 1. View all publisher ids registered
 2. View all message queues registered
