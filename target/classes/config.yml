@@ -1,0 +1,3 @@
+scheduleDelayMainQueueInSecs: 30
+scheduleDelayRetryQueueInSecs: 60
+retryQueueThreshold: 3
